@@ -1,0 +1,24 @@
+{
+  "build_id": "developer",
+  "device_id": "948790f8d69f2252d5751111",
+  "install_id": "aef701d7-0914-4ec1-a0b3-d16535b52f6e",
+  "machine_hash": "d264e4bb1ddaf77b5cea04ee5cae296102f67807386a701ddbe53ca5c677fe74",
+  "status": "active",
+  "host": "gamepe.ru",
+  "port": 19132,
+  "game_version": "1.21.100",
+  "bot_version": "3.9.9",
+  "first_seen": "2026-03-29T22:40:30.756Z",
+  "last_seen": "2026-03-29T22:40:30.756Z",
+  "updated_at": "2026-03-29T22:40:30.756Z",
+  "device": {
+    "platform": "win32",
+    "arch": "x64",
+    "hostname": "DESKTOP-KEH00DK",
+    "release": "10.0.19045",
+    "cpu": "Intel(R) Pentium(R) CPU G3420 @ 3.20GHz",
+    "cpu_count": 2,
+    "ram_mb": 6037,
+    "mac_count": 3
+  }
+}
