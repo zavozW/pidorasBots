@@ -20,5 +20,7 @@
     "cpu_count": 2,
     "ram_mb": 6037,
     "mac_count": 3
-  }
+  },
+  "manual_status": "banned",
+  "effective_status": "banned"
 }
