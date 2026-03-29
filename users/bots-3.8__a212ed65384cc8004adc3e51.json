@@ -1,7 +1,7 @@
 {
   "build_id": "bots-3.8",
   "device_id": "a212ed65384cc8004adc3e51",
-  "install_id": "1aafb202-4991-430f-886b-989b8d269184",
+  "install_id": "aef701d7-0914-4ec1-a0b3-d16535b52f6e",
   "machine_hash": "aab841215659f6497ed17c1edcf93d331c649e752ff23aea60d09599c6de2b14",
   "status": "active",
   "host": "gamepe.ru",
@@ -9,8 +9,8 @@
   "game_version": "1.21.100",
   "bot_version": "3.9.7",
   "first_seen": "2026-03-29T20:54:05.835Z",
-  "last_seen": "2026-03-29T21:12:51.007Z",
-  "updated_at": "2026-03-29T21:12:51.007Z",
+  "last_seen": "2026-03-29T21:47:09.243Z",
+  "updated_at": "2026-03-29T21:47:09.243Z",
   "device": {
     "platform": "win32",
     "arch": "x64",
