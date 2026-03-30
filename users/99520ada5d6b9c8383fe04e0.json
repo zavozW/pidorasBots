@@ -8,10 +8,10 @@
   "host": "gamepe.ru",
   "port": 19132,
   "game_version": "1.21.100",
-  "bot_version": "5.0",
+  "bot_version": "3.9.9",
   "first_seen": "2026-03-30T07:40:00.556Z",
-  "last_seen": "2026-03-30T19:07:41.861Z",
-  "updated_at": "2026-03-30T19:07:41.861Z",
+  "last_seen": "2026-03-30T19:29:24.905Z",
+  "updated_at": "2026-03-30T19:29:24.905Z",
   "device": {
     "platform": "win32",
     "arch": "x64",
