@@ -1,5 +1,5 @@
 {
-  "build_id": "5.0vps",
+  "build_id": "developer",
   "device_id": "99520ada5d6b9c8383fe04e0",
   "install_id": "dd4b1372-3db8-4d81-82bb-05b61bb9a535",
   "machine_hash": "369f5ba08e27ee58d91082095dd2c91268ebcaa2736f8d91059bc2921b03c6ad",
@@ -10,8 +10,8 @@
   "game_version": "1.21.100",
   "bot_version": "5.0",
   "first_seen": "2026-03-30T07:40:00.556Z",
-  "last_seen": "2026-03-30T18:53:04.662Z",
-  "updated_at": "2026-03-30T18:53:04.662Z",
+  "last_seen": "2026-03-30T19:07:41.861Z",
+  "updated_at": "2026-03-30T19:07:41.861Z",
   "device": {
     "platform": "win32",
     "arch": "x64",
