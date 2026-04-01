@@ -1,5 +1,5 @@
 {
-  "build_id": "5.1vps",
+  "build_id": "5.2vps",
   "device_id": "98ead24fdfebf997c6b5ad43",
   "install_id": "da915ec1-38e5-44d9-9d28-52579124c557",
   "machine_hash": "1961c043bf259f0a7bfcd1a23d0564b08b0ad6af607fb398bbb5934ef398a851",
@@ -8,10 +8,10 @@
   "host": "gamepe.ru",
   "port": 19132,
   "game_version": "1.21.100",
-  "bot_version": "5.1",
+  "bot_version": "5.2",
   "first_seen": "2026-04-01T08:46:18.077Z",
-  "last_seen": "2026-04-01T10:07:29.383Z",
-  "updated_at": "2026-04-01T10:07:29.383Z",
+  "last_seen": "2026-04-01T15:27:31.970Z",
+  "updated_at": "2026-04-01T15:27:31.970Z",
   "device": {
     "platform": "win32",
     "arch": "x64",
