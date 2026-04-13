@@ -1,0 +1,25 @@
+{
+  "build_id": "5.3j",
+  "device_id": "69123f48f871a1f79eb02f1c",
+  "install_id": "4caeba87-6b89-4d81-9e5d-71c222fd2ea7",
+  "machine_hash": "067802599d3717fe4ce65051ee9438673848f8696f2d971c2fa3eb15253d8b2c",
+  "hwid": "067802599d3717fe4ce65051ee9438673848f8696f2d971c2fa3eb15253d8b2c",
+  "status": "active",
+  "host": "gamepe.ru",
+  "port": 19132,
+  "game_version": "1.21.100",
+  "bot_version": "5.3",
+  "first_seen": "2026-04-13T14:28:13.631Z",
+  "last_seen": "2026-04-13T14:28:13.631Z",
+  "updated_at": "2026-04-13T14:28:13.631Z",
+  "device": {
+    "platform": "win32",
+    "arch": "x64",
+    "hostname": "lenovo",
+    "release": "10.0.26200",
+    "cpu": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+    "cpu_count": 4,
+    "ram_mb": 8060,
+    "mac_count": 1
+  }
+}
