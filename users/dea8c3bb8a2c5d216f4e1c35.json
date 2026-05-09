@@ -1,0 +1,25 @@
+{
+  "build_id": "5.3m",
+  "device_id": "dea8c3bb8a2c5d216f4e1c35",
+  "install_id": "33eaeb20-dd08-4add-96b8-ad8c47c88f6d",
+  "machine_hash": "aa96bb7ab355f2a37963d51c02eabf6a9fde244f0291450fb2698239e12116e8",
+  "hwid": "aa96bb7ab355f2a37963d51c02eabf6a9fde244f0291450fb2698239e12116e8",
+  "status": "active",
+  "host": "gamepe.ru",
+  "port": 19132,
+  "game_version": "1.21.100",
+  "bot_version": "5.3",
+  "first_seen": "2026-05-09T16:05:51.104Z",
+  "last_seen": "2026-05-09T16:05:51.104Z",
+  "updated_at": "2026-05-09T16:05:51.104Z",
+  "device": {
+    "platform": "win32",
+    "arch": "x64",
+    "hostname": "DESKTOP-F5RPEPU",
+    "release": "10.0.19045",
+    "cpu": "Intel(R) Core(TM) i3-10105F CPU @ 3.70GHz",
+    "cpu_count": 8,
+    "ram_mb": 8097,
+    "mac_count": 1
+  }
+}
