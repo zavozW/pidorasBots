@@ -1,4 +1,5 @@
 {
+  "User": "",
   "build_id": "developer",
   "device_id": "827705f39b33f8dd28e6ebec",
   "install_id": "aef701d7-0914-4ec1-a0b3-d16535b52f6e",
@@ -10,8 +11,8 @@
   "game_version": "1.21.100",
   "bot_version": "5.4",
   "first_seen": "2026-03-30T14:01:31.772Z",
-  "last_seen": "2026-06-22T21:11:21.034Z",
-  "updated_at": "2026-06-22T21:11:21.034Z",
+  "last_seen": "2026-06-22T21:24:09.983Z",
+  "updated_at": "2026-06-22T21:24:09.983Z",
   "device": {
     "platform": "win32",
     "arch": "x64",
