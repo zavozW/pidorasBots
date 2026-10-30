@@ -11,16 +11,16 @@
   "game_version": "1.21.100",
   "bot_version": "6.0",
   "first_seen": "2026-04-01T09:48:40.563Z",
-  "last_seen": "2026-09-02T15:39:50.753Z",
-  "updated_at": "2026-09-02T15:39:50.753Z",
+  "last_seen": "2026-10-30T10:07:39.439Z",
+  "updated_at": "2026-10-30T10:07:39.439Z",
   "device": {
     "platform": "win32",
     "arch": "x64",
-    "hostname": "Lenovo",
-    "release": "10.0.26200",
-    "cpu": "Intel(R) Core(TM) i3-3110M CPU @ 2.40GHz",
-    "cpu_count": 4,
-    "ram_mb": 12157,
+    "hostname": "DESKTOP-EDD672T",
+    "release": "10.0.26300",
+    "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+    "cpu_count": 12,
+    "ram_mb": 16287,
     "mac_count": 1
   }
 }
