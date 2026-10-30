@@ -1,0 +1,26 @@
+{
+  "User": "",
+  "build_id": "zerehnik",
+  "device_id": "e2a9f8b599466bd950a721f1",
+  "install_id": "9f2a8a98-e6c5-4680-84d8-7e42c1f204de",
+  "machine_hash": "5da53fa3bff39767cd3878c23d10542bda92f390d81c4ce54090a5db002e10c0",
+  "hwid": "5da53fa3bff39767cd3878c23d10542bda92f390d81c4ce54090a5db002e10c0",
+  "status": "active",
+  "host": "gamepe.ru",
+  "port": 19132,
+  "game_version": "1.21.100",
+  "bot_version": "6.0",
+  "first_seen": "2026-10-30T10:37:13.480Z",
+  "last_seen": "2026-10-30T10:37:13.480Z",
+  "updated_at": "2026-10-30T10:37:13.480Z",
+  "device": {
+    "platform": "win32",
+    "arch": "x64",
+    "hostname": "DESKTOP-EDD672T",
+    "release": "10.0.26300",
+    "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+    "cpu_count": 12,
+    "ram_mb": 16287,
+    "mac_count": 1
+  }
+}
